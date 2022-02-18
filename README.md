@@ -24,7 +24,7 @@ En esta tarea resolvemos una serie de ejercicios con el uso del **pseudocódigo*
 
 Este ejercicio consta de dos apartados. El primero de ellos nos pide calcular el precio con IVA incluido y el segundo el interés generado con un tiempo e interés dado.
 
-**EJERCICIO 1:**
+**APARTADO 1:**
 
 ```
 Algoritmo precio con IVA
@@ -51,4 +51,4 @@ fin cálculo
 
 ```
 
-**EJERCICIO 2:**
+**APARTADO 2:**
