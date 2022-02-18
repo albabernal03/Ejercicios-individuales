@@ -166,5 +166,6 @@ Precondición
   Poscondición
    Resultado = (l x h) / 2
    
+  fin calcular área triángulo
    
   ```
