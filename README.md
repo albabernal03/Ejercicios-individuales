@@ -108,3 +108,36 @@ Poscondición
 fin cálculo media aritmética
  
 ```
+
+**APARTADO 2:**
+
+```
+Algoritmo media aritmética
+
+#vamos a calcular un algoritmo que calcule la media aritmética de distintos números con diversos coeficientes de ponderación.
+
+Entrada
+
+ n1, n2, n3.....nk: REAL #los números con los que se obtendrá la media aritmética
+
+ k: REAL #media aritmética de las notas
+
+ c1, c2, c3....ck: REAL #coeficientes de poderación
+
+Precondición
+ 
+ n1, n2, n3...nk ≥ 0
+ 
+ k ≥ 1 #la cantidad total de notas no puede ser igual a 0
+ 
+ c1, c2, c3 ...ck ≥ 0
+ 
+ Realización
+  Resultado <-- Σ(nxc) / k
+  
+ Poscondición
+  Resultado <-- Σ(nxc) / k
+  
+ fin cálculo media arirmética
+  
+  ```
