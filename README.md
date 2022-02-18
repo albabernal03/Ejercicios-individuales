@@ -12,7 +12,7 @@ En esta tarea resolvemos una serie de ejercicios con el uso del **pseudocódigo*
 
 ## Indice
 1. [Ejercicio 1](#id1)
-2. 2
+2. [Ejercicio 2](#id2)
 3. 2
 4. 2
 5. 2
@@ -82,7 +82,7 @@ fin calculo interés generado
 ```
 ***
 
-## Ejercicio 2: 
+## Ejercicio 2:<a name="id2"></a>
 
 En este ejercicio se nos pide dos cosas. En primer lugar se nos pide calcular un algoritmo que calcule la media aritmética de tres números dados. Por otra parte en el segundo nos pide los mismo pero para una cantidad de números indefinifos, los cuales tienes diversos coeficientes de poderación.
 
