@@ -84,4 +84,6 @@ fin calculo interés generado
 
 ## Ejercicio 2: 
 
+En este ejercicio se nos pide dos cosas; en primer lugar se nos pide calcular un algoritmo 
+
  
