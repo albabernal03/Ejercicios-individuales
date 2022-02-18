@@ -22,7 +22,7 @@ En esta tarea resolvemos una serie de ejercicios con el uso del **pseudocódigo*
 
 ## Ejercicio 1:<a name="id1"></a>
 
-Este ejercicio consta de dos apartados. El primero de ellos nos pide calcular el precio con IVA incluido y el segundo el interés generado con un tiempo e interés dado.
+Este ejercicio consta de dos apartados. El primero de ellos nos pide calcular el precio con IVA incluido y el segundo el interés generado con un tiempo y una tasa de interés dada.
 
 **APARTADO 1:**
 
