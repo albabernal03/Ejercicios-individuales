@@ -11,8 +11,8 @@ En esta tarea resolvemos una serie de ejercicios con el uso del **pseudocódigo*
 ***
 
 ## Indice
-1. [Ejercicio 1](#id1)
-2. [Ejercicio 2](#id2)
+1. [Ejercicio 8](#id1)
+2. [Ejercicio 9](#id2)
 3. 2
 4. 2
 5. 2
@@ -20,7 +20,7 @@ En esta tarea resolvemos una serie de ejercicios con el uso del **pseudocódigo*
 
 ***
 
-## Ejercicio 1:<a name="id1"></a>
+## Ejercicio 8:<a name="id1"></a>
 
 Este ejercicio consta de dos apartados. El primero de ellos nos pide calcular el precio con IVA incluido y el segundo el interés generado con un tiempo y una tasa de interés dada.
 
@@ -82,7 +82,7 @@ fin calculo interés generado
 ```
 ***
 
-## Ejercicio 2:<a name="id2"></a>
+## Ejercicio 9:<a name="id2"></a>
 
 En este ejercicio se nos pide dos cosas. En primer lugar se nos pide calcular un algoritmo que calcule la media aritmética de tres números dados. Por otra parte en el segundo nos pide los mismo pero para una cantidad de números indefinifos, los cuales tienes diversos coeficientes de poderación.
 
@@ -141,3 +141,6 @@ Precondición
  fin cálculo media arirmética
   
   ```
+  ***
+  
+  ## Ejercicio 10:<a name="id3"></a>
