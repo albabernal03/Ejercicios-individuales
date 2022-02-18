@@ -169,4 +169,4 @@ Precondición
   fin calcular área triángulo
    
   ```
-  **Observación:** Sí, se puede utilizar este algoritmo para un triángulo rectángulo si se dan las medidas de sus dos lados perpendiculares
+  **Observación:** Se puede utilizar este algoritmo para un triángulo rectángulo si se dan las medidas de sus dos lados perpendiculares
