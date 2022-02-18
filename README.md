@@ -120,23 +120,20 @@ Entrada
 
  n1, n2, n3.....nk: REAL #los números con los que se obtendrá la media aritmética
 
- k: REAL #media aritmética de las notas
-
- c1, c2, c3....ck: REAL #coeficientes de poderación
+ c1, c2, c3....ck: REAL #coeficientes de poderación / 100
 
 Precondición
  
  n1, n2, n3...nk ≥ 0
+
+ 0 < c1, c2, c3 ...ck ≤ 1 #esto es para indicar que cuando sea 5% se pondrá como 0,05 
  
- k ≥ 1 #la cantidad total de notas no puede ser igual a 0
- 
- c1, c2, c3 ...ck ≥ 0
  
  Realización
-  Resultado <-- Σ(nxc) / k
+  Resultado <-- Σ(nxc)
   
  Poscondición
-  Resultado <-- Σ(nxc) / k
+  Resultado <-- Σ(nxc)
   
  fin cálculo media arirmética
   
@@ -144,3 +141,30 @@ Precondición
   ***
   
   ## Ejercicio 10:<a name="id3"></a>
+  
+  En este ejercico nos piden calcular el área de un triángulo dado un lado y la altura relativa a este lado. 
+  
+  **APARTADO 1:**
+  
+  
+  ```
+  Algoritmo área triángulo
+  
+  #vamos a calcular el área del tríangulo dado un lado y la altura relativa a este.
+  
+  Entrada
+   l:REAL #lado triángulo (el cual ejerce como base)
+   h: REAL #altura relativa al lado dado
+   
+  Precondición
+   l > 0
+   h > 0
+  
+  Realización
+   Resultado <-- (l x h) / 2
+   
+  Poscondición
+   Resultado = (l x h) / 2
+   
+   
+  ```
