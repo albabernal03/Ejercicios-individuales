@@ -80,5 +80,8 @@ Poscondición
 fin calculo interés generado
 
 ```
+***
+
+## Ejercicio 2: 
 
  
