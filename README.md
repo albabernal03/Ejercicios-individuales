@@ -52,3 +52,33 @@ fin cálculo
 ```
 
 **APARTADO 2:**
+
+```
+
+Algoritmo interés generado
+
+#Vamos a calcular el interés generado con un capital inicial, tiempo e interés dado.
+
+Entrada
+ c: REAL #importe del capital inicial
+ t: REAL #tiempo expresado en meses
+ i: REAL #tasa de interés
+
+Resultado: REAL
+
+Precondición
+ c ≥ 0
+ t > 0
+ i > 0
+ 
+Realización
+ Resultado <-- c x t x i
+ 
+Poscondición
+ Resultado = c x t x i
+
+fin calculo interés generado
+
+```
+
+ 
