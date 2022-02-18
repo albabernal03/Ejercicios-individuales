@@ -84,6 +84,27 @@ fin calculo interés generado
 
 ## Ejercicio 2: 
 
-En este ejercicio se nos pide dos cosas; en primer lugar se nos pide calcular un algoritmo 
+En este ejercicio se nos pide dos cosas. En primer lugar se nos pide calcular un algoritmo que calcule la media aritmética de tres números dados. Por otra parte en el segundo nos pide los mismo pero para una cantidad de números indefinifos, los cuales tienes diversos coeficientes de poderación.
 
+**APARTADO 1:**
+
+```
+Algoritmo media arimética
+
+#vamos a calcular un algoritmo que calcule la media aritmética de tres números dados
+
+Entrada
+ n1, n2, n3: REAL #los números con los que se obtendrá la media
  
+Precondición
+ n1, n2, n3 ≥ 0
+
+Realización
+ Resultado <-- (n1 + n2 + n3) / 3
+ 
+Poscondición
+ Resultado = (n1 + n2 + n3) / 3
+ 
+fin cálculo media aritmética
+ 
+```
