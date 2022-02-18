@@ -11,7 +11,7 @@ En esta tarea resolvemos una serie de ejercicios con el uso del **pseudocódigo*
 ***
 
 ## Indice
-1. 2
+1. [Ejercicio 1](#id1)
 2. 2
 3. 2
 4. 2
