@@ -170,3 +170,20 @@ Precondición
    
   ```
   **Observación:** Se puede utilizar este algoritmo para un triángulo rectángulo si se dan las medidas de sus dos lados perpendiculares
+  
+  
+  ## Ejercicio 11:
+  
+  En este ejercicio se nos pide escribir un algoritmo el cual calcule el importe de las horas extra que hay que pagar, a partir del salario mensual bruto y de la cantidad de horas extra.  
+
+```
+Algoritmo calculo importe horas extras 
+
+#vamso a calcular el importe de las horas ectras que hay que pagar, a partir del salario mensual bruto y la cantidad de horas extras.
+
+
+Entrada
+
+
+  
+  
