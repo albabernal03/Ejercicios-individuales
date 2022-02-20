@@ -233,6 +233,12 @@ Precondición
 Realización
  Resultado <-- sueldo_mensual_bruto + horas_extras_tipo1 + horas_extras_tipo_2
 
+Poscondición
+ Resultado = sueldo_mensual_bruto + horas_extras_tipo1 + horas_extras_tipo_2
+ 
+fin calculo sueldo a pagara total
+
+
 ```
 ***
 
