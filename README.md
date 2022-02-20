@@ -260,7 +260,7 @@ Algoritmo cuenta del depósito
 Entrada
  datos_cuenta: TEXTO
  saldo_cuenta: REAL
- dinero_extraer: REAL
+ dinero_extraer: REAL 
  
  Resultado: BOOLEANO
 
@@ -270,7 +270,14 @@ Precondición
 Realización
 
  si saldo cuenta > dinero_extraer entonces
-  resultado
+  resultado <-- no puede extraer dinero
+  
+ si no 
+ #saldo cuenta < dinero_extraer
+  resultado <-- puede extraer dinero 
+                saldo_actual = saldo_cuenta - dinero_extraer
+                
+fin cálculo cuenta
  
 
   
