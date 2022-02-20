@@ -13,9 +13,9 @@ En esta tarea resolvemos una serie de ejercicios con el uso del **pseudocódigo*
 ## Indice
 1. [Ejercicio 8](#id1)
 2. [Ejercicio 9](#id2)
-3. 2
-4. 2
-5. 2
+3. [Ejercicio 10](#id3)
+4. [Ejercicio 11](#id4)
+5. [Ejercicio 12](#id5)
 
 
 ***
@@ -172,8 +172,7 @@ Precondición
   **Observación:** Se puede utilizar este algoritmo para un triángulo rectángulo si se dan las medidas de sus dos lados perpendiculares
   
   
-  ## Ejercicio 11:
-  
+  ## Ejercicio 11: <a name="id4"></a>
   En este ejercicio se nos pide escribir un algoritmo el cual calcule el importe de las horas extra que hay que pagar, a partir del salario mensual bruto y de la cantidad de horas extra.  
 
 ```
@@ -183,6 +182,21 @@ Algoritmo calculo importe horas extras
 
 
 Entrada
+
+
+
+
+
+
+
+
+
+
+
+
+***
+
+## Ejercicio 12:
 
 
   
