@@ -178,7 +178,7 @@ En este ejercicio se nos pide escribir un algoritmo el cual calcule el importe d
 
 ```
 
-Algoritmo calculo sueldo básico por horas
+Algoritmo calculo sueldo básico por hora
 
 Entrada 
  sueldo_mensual_bruto: REAL #sueldo total que se cobra en el mes
