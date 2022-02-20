@@ -173,24 +173,65 @@ Precondición
   
   
   ## Ejercicio 11: <a name="id4"></a>
-  En este ejercicio se nos pide escribir un algoritmo el cual calcule el importe de las horas extra que hay que pagar, a partir del salario mensual bruto y de la cantidad de horas extra.  
+  
+En este ejercicio se nos pide escribir un algoritmo el cual calcule el importe de las horas extra que hay que pagar, a partir del salario mensual bruto y de la cantidad de horas extra.  
 
 ```
+
+Algoritmo calculo sueldo básico por horas
+
+Entrada 
+ sueldo_mensual_bruto: REAL #sueldo total que se cobra en el mes
+ horas_mes: REAL #horas totales del mes
+  
+Precondición 
+ sueldo_mensual bruto > 0
+ horas_mes > 0
+
+Realización
+ Resultado <-- sueldo_mensual_bruto / horas_mes
+ 
+Poscondición 
+ Resultado = sueldo_mensual_bruto / horas_mes
+ 
+ 
 Algoritmo calculo importe horas extras 
 
-#vamso a calcular el importe de las horas ectras que hay que pagar, a partir del salario mensual bruto y la cantidad de horas extras.
+#vamos a calcular el importe de las horas extras que hay que pagar, a partir del salario mensual bruto y la cantidad de horas extras.
 
 
 Entrada
+ sueldo_básico_por_hora: REAL 
+ remuneración_horas_extras_tipo1: REAL #son las horas entre la 36.ª y la 43.ª (125% = 1,25)
+ remuneración_horas_extras_tipo2: REAL #son las horas extras 44.ª (150% = 1,5)
 
+Precondición
+ sueldo_básico_por_horas > 0
+ 0 ≤ remuneración_horas_extras_tipo1 < 2
+ 0 ≤ remuneración_horas extras_tipo2 < 2
+ 
+Realización
+ Resultado <-- horas_extras_tipo1 = sueldo_básico_por_hora x remuneración_horas_extras_tipo1
+               horas_extras_tipo2 = sueldo_básico_por_hora x remuneracióm_horas_extras_tipo2
+Poscondición
 
+Resultado = horas_extras_tipo1 = sueldo_básico_por_hora x remuneración_horas_extras_tipo1
+            horas_extras_tipo2 = sueldo_básico_por_hora x remuneracióm_horas_extras_tipo2
 
+Algoritmo cálculo importe total a pagar teniendo en cuenta las horas extras
 
-
-
-
-
-
+Entrada:
+ Sueldo_mensual_bruto: REAL
+ horas_extras_tipo1: REAL
+ horas_extras_tipo2: REAL
+ 
+Precondición
+ Sueldo_mensual_bruto ≥ 0
+ horas_extras_tipo1 ≥ 0
+ horas_extras_tipo2 ≥ 0
+ 
+Realización
+ Resultado <-- sueldo_mensual_bruto + horas_extras_tipo1 + horas_extras_tipo_2
 
 ```
 ***
