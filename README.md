@@ -244,7 +244,33 @@ fin calculo sueldo a pagara total
 
 ## Ejercicio 12:
 
+En este ejercicio nos piden que 
 
+1. Definir el tipo de datos CUENTA..
 
-  
+2. Definir las operaciones aplicables.
+
+En determinadas circunstancias y para determinados clientes, la banca autoriza un descubierto limitado y temporal.
+
+3. Volver a hacer las definiciones previas para permitir estos descubiertos
+
+```
+Algoritmo cuenta del depósito
+
+Entrada
+ datos_cuenta: TEXTO
+ saldo_cuenta: REAL
+ dinero_extraer: REAL
+ 
+ Resultado: BOOLEANO
+
+Precondición
+ ninguna
+
+Realización
+
+ si saldo cuenta > dinero_extraer entonces
+  resultado
+ 
+
   
